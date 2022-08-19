@@ -14,7 +14,7 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 - 📫 You can [view my resume](#) and contact me by emailing iyamuosahon2@gmail.com.
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iyamu-osahon007&show_icons=true&include_all_commits=true&hide_border=true" alt="Osahon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamu-osahon007&langs_count=8&layout=compact&hide_border=true" alt="Osahon's GitHub stats" /> |
 | ------------- | ------------- |
 
 ---
